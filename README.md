@@ -1,4 +1,4 @@
-# testing_application_example
+# Flutter testing application example
 
 A new Flutter project.
 
